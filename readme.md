@@ -16,7 +16,6 @@ This notebook is going to answer this question via analyzing tweets with impleme
 In this project, two sets of data are used.
 
 1. sentiment_analysis.csv contains tweets that have had their sentiments already analyzed and recorded as binary values 0 (negative) and 1 (positive).
-![this](Images/Distribution of 2019 tweets based on parties and thier sentiment.png)
 2. Canadian_elections_2019.csv, contains a list of tweets regarding the 2019 Canadian elections.
 
 ## Analysis Steps
@@ -31,6 +30,7 @@ The analysis include following steps:
 5. Tunning the best model
 
 ### Distribution of 2019 tweets based on parties and thier sentiment
+![This is an image](Images/Distribution of 2019 tweets based on parties and thier sentiment.png)
 
 ### Insights from EDA
 
