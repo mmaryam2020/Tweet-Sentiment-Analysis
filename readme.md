@@ -43,7 +43,8 @@ There are words that are totally representive of positive and negetive sentiment
 
 
 **Exploring the reasons for Negative election tweets**
-![Words Frequency]([https://github.com/mmaryam2020/Tweet-Sentiment-Analysis/blob/bb99ccca682bd1e36b2b444aa0ac42bf0185aaa0/Images/WordFrequency.png](https://github.com/mmaryam2020/Tweet-Sentiment-Analysis/blob/4d29e80cf0ecb25a0dcd85e8683ca0c0a3160e4a/Images/Exploring%20the%20reasons%20for%20Negative%20election%20tweets.png))
+
+![Reasons](https://github.com/mmaryam2020/Tweet-Sentiment-Analysis/blob/4d29e80cf0ecb25a0dcd85e8683ca0c0a3160e4a/Images/Exploring%20the%20reasons%20for%20Negative%20election%20tweets.png)
 
 
 ## Comparing different model results
