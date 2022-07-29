@@ -29,11 +29,10 @@ The analysis include following steps:
 4. Model implementation
 5. Tunning the best model
 
-### Distribution of 2019 tweets based on parties and thier sentiment
+## Distribution of 2019 tweets 
 ![Distribution](https://github.com/mmaryam2020/Tweet-Sentiment-Analysis/blob/735510e7226a39e4c78678de8eecefafb85bc0e7/Images/Distribution%20of%202019%20tweets%20based%20on%20parties%20and%20thier%20sentiment.png)
 
-### Insights from EDA
+## Insights from EDA
 ![Word Clouds](https://github.com/mmaryam2020/Tweet-Sentiment-Analysis/blob/d5527d8c91a675b5305a9b0098c95bbc4b008bfd/Images/PosetiveWordCloud.png)
-### Comparing different model results
-
-
+## Comparing different model results
+![Word Clouds](https://github.com/mmaryam2020/Tweet-Sentiment-Analysis/blob/638fff858493cb5a88af1bba0a7f3d5ea9813253/Images/ModelsResults.JPG)
